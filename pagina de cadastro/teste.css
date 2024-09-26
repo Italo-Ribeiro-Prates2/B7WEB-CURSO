@@ -1,0 +1,22 @@
+table {
+
+    width: 600px;    
+
+}
+table thead{
+
+    background-color: #ccc;
+}
+
+
+th, td {
+
+    padding: 10px;
+}
+
+
+
+tbody tr:nth-child(even){
+
+    background-color: #ccc;
+}
